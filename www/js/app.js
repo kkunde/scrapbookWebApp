@@ -1,2 +1,2 @@
 //setup angular
-var app = angular.module('scotch-todo', ['ionic']);
+var app = angular.module('scotch-todo', ['ionic', 'LocalStorageModule']);
